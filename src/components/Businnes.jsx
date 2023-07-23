@@ -4,7 +4,7 @@ import { features } from "../constants"
 
 const Businnes = () => {
   return (
-    <section id="businnes" className={`${Styles.paddingY} mt-16`}>
+    <section id="features" className={`${Styles.paddingY} mt-16`}>
       <div className="flex flex-wrap font-poppins">
         <div className="w-full self-center lg:w-1/2">
           <h1 className="text-white text-5xl lg:text-[3rem] leading-[60px] md:leading-[72px] max-w-md lg:max-w-none">
